@@ -1,0 +1,49 @@
+h1
+{
+    text-align: center;
+}
+
+html
+{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #f8f9fa;
+}
+
+body
+{
+    background-color: #f8f9fa;
+}
+
+a:link {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited
+{
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: #343a40;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active
+{
+  color: gray;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+footer
+{
+    font-size: 10px;
+    text-align: center;
+}
